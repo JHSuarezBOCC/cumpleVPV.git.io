@@ -1,0 +1,76 @@
+body 
+{
+ background: rgb(90, 93, 94);
+color: #333;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+margin: 0;
+padding: 0.5em;
+}
+
+#cabecera
+{ 
+text-align: center;
+background: rgb(57, 57, 105);
+box-shadow: 0px 2px 120px 0px rgba(64, 95, 95, 0.9);
+color:white;
+font-weight: bold;
+margin:0;
+padding: 0.8em;
+}
+#cabecera_2
+{ 
+text-align: center;
+font-weight: bold;
+margin:0;
+padding: 0.8em;
+background: rgb(57, 57, 105);
+box-shadow: 0px 2px 120px 0px rgba(43, 70, 70, 0.9);
+}
+#cabecera #tagline 
+{
+text-align: center;
+padding: 0 0 0 1em ;
+font-weight: normal;
+font-size: 0.5em;
+}
+#container
+{
+width: 80%;
+padding: 0;  
+text-align: left;
+box-shadow: 0px 2px 20px 0px rgba(64, 95, 95, 0.9);
+border: 1px solid #ddd;
+margin: 0 auto;
+background: rgb(207, 207, 224);
+}
+#container h1
+{
+font-size: 20px;
+}
+#centro
+{
+text-align: center;
+}
+#equipo
+{
+width: 50%; 
+}
+#cabecera #logo
+{
+width: 100px; 
+vertical-align: middle;
+}
+
+#footer
+{
+background: rgb(57, 57, 105);
+color: white;
+text-align: center;
+padding: 0.5em;
+}
+#post
+{
+background-attachment: white;
+padding: 1em;
+}
